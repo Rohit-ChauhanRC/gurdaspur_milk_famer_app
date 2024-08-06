@@ -1,0 +1,15 @@
+{
+  "originHash" : "9a66aec3ac7911eb95f65a7071dfe5f73bf3b90d89ff95a6544b5ba4768883b9",
+  "pins" : [
+    {
+      "identity" : "orderedset",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Weebly/OrderedSet.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "3ccfa85696524b2656fc0b1b9af9650a848115d0"
+      }
+    }
+  ],
+  "version" : 3
+}
